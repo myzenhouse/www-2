@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'DINNeuzeitGroteskStd-Light';
+   font-display: swap;
+   src: url('DINNeuzeitGroteskStd-Light/font.woff');
+}
+@font-face {
+   font-family: 'DINPro-Light';
+   font-display: swap;
+   src: url('DINPro-Light/font.woff2');
+}
+@font-face {
+   font-family: 'DINMittelschriftStd';
+   font-display: swap;
+   src: url('DINMittelschriftStd/font.woff2');
+}
